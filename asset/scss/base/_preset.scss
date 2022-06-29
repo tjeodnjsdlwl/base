@@ -1,19 +1,4 @@
 
-
-/*
-    @세팅구역
-*/
-body {
-    // min-width: ?세팅하시고
-    font-family: $font-kr01;
-    font-size: 14px;
-    color:var(--colorBg1);
-    scroll-behavior: smooth;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-
 .blind{
     position: absolute;
     width: 1px;
@@ -23,8 +8,3 @@ body {
     margin: -1px;
 }
 
-.common-inner{
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 50px;
-}
